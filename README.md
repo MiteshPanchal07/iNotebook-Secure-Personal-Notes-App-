@@ -18,7 +18,7 @@ iNotebook is a full-stack web application that allows users to manage personal n
 ## 🛠️ Tech Stack
 
 - **Frontend:** React.js
-- **Backend:** Node.js
+- **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 - **Authentication:** JWT (JSON Web Token)
 - **Security:** Bcrypt password hashing
